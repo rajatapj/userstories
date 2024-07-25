@@ -4,6 +4,8 @@
 
 • User Story: Seraching Deserts
 
+• User Story: click buy 
+
 • User Story: Booking tickets
 
 • User Story: logout
